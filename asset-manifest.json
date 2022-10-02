@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IpsumGenerator/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/IpsumGenerator/static/js/main.15e8a374.chunk.js",
+    "main.js.map": "/IpsumGenerator/static/js/main.15e8a374.chunk.js.map",
+    "runtime-main.js": "/IpsumGenerator/static/js/runtime-main.475619a0.js",
+    "runtime-main.js.map": "/IpsumGenerator/static/js/runtime-main.475619a0.js.map",
+    "static/js/2.d8a71053.chunk.js": "/IpsumGenerator/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/IpsumGenerator/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/IpsumGenerator/index.html",
+    "precache-manifest.fcef84a14c85a16102971fc2d54366df.js": "/IpsumGenerator/precache-manifest.fcef84a14c85a16102971fc2d54366df.js",
+    "service-worker.js": "/IpsumGenerator/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/IpsumGenerator/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/IpsumGenerator/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.475619a0.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.15e8a374.chunk.js"
+  ]
+}
